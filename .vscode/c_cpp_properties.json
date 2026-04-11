@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c23",
+            "cppStandard": "c++23",
+            "intelliSenseMode": "macos-gcc-arm64"
+        }
+    ],
+    "version": 4
+}
